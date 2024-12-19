@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestPrep-Dovada</string>
+    <string name="download_button">Download button</string>
+    <string name="perioada">Perioada</string>
+    <string name="sterge">Sterge</string>
+    <string name="period">Period</string>
+    <string name="loaded">Loaded</string>
+    <string name="empty_period_field">Empty period field</string>
+    <string name="inserted">Inserted</string>
+    <string-array name="spinner_values">
+        <item>are valoarea mai mare decat</item>
+        <item>are valoarea mai mica decat</item>
+        <item>are valoarea egala cu</item>
+    </string-array>
+</resources>
